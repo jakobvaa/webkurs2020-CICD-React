@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/webkurs2020-CICD-React/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/webkurs2020-CICD-React/static/js/main.d5907212.chunk.js",
-    "main.js.map": "/webkurs2020-CICD-React/static/js/main.d5907212.chunk.js.map",
-    "runtime-main.js": "/webkurs2020-CICD-React/static/js/runtime-main.89e14c0b.js",
-    "runtime-main.js.map": "/webkurs2020-CICD-React/static/js/runtime-main.89e14c0b.js.map",
-    "static/css/2.0a5b19c0.chunk.css": "/webkurs2020-CICD-React/static/css/2.0a5b19c0.chunk.css",
-    "static/js/2.16ab8709.chunk.js": "/webkurs2020-CICD-React/static/js/2.16ab8709.chunk.js",
-    "static/js/2.16ab8709.chunk.js.map": "/webkurs2020-CICD-React/static/js/2.16ab8709.chunk.js.map",
-    "index.html": "/webkurs2020-CICD-React/index.html",
-    "precache-manifest.826e67eab93c3ec0ce55c432f4a2140b.js": "/webkurs2020-CICD-React/precache-manifest.826e67eab93c3ec0ce55c432f4a2140b.js",
-    "service-worker.js": "/webkurs2020-CICD-React/service-worker.js",
-    "static/css/2.0a5b19c0.chunk.css.map": "/webkurs2020-CICD-React/static/css/2.0a5b19c0.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/webkurs2020-CICD-React/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.16ab8709.chunk.js.LICENSE.txt": "/webkurs2020-CICD-React/static/js/2.16ab8709.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.df862932.chunk.js",
+    "main.js.map": "/static/js/main.df862932.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ff388ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ff388ac.js.map",
+    "static/css/2.0a5b19c0.chunk.css": "/static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.16ab8709.chunk.js": "/static/js/2.16ab8709.chunk.js",
+    "static/js/2.16ab8709.chunk.js.map": "/static/js/2.16ab8709.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.22360a8d4baf306aebad6b4f3b4d6e6b.js": "/precache-manifest.22360a8d4baf306aebad6b4f3b4d6e6b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.0a5b19c0.chunk.css.map": "/static/css/2.0a5b19c0.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.16ab8709.chunk.js.LICENSE.txt": "/static/js/2.16ab8709.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.89e14c0b.js",
+    "static/js/runtime-main.5ff388ac.js",
     "static/css/2.0a5b19c0.chunk.css",
     "static/js/2.16ab8709.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.d5907212.chunk.js"
+    "static/js/main.df862932.chunk.js"
   ]
 }
